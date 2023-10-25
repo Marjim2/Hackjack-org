@@ -1,0 +1,71 @@
+body{
+    text-align: center;
+    background: url(royal-flush-playing-card-casino-chips-green-poker-background.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+.container{
+    width: 600px;
+    height: 600px;
+    margin:  auto auto auto;
+    background: rgb(0, 0, 0,0.7);
+    border-radius: 10px;
+    color: white;
+}
+
+h1{
+    color: goldenrod;
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 80px;
+    margin-bottom: unset;
+}
+
+.top{
+    border-top: 5px solid rgb(24, 33, 210);
+    border-radius: 10px;
+}
+
+.line{
+    border-bottom: 5px solid rgb(152, 233, 23);
+    border-radius: 10px;
+    padding-top: 5px;
+}
+
+p{
+    margin-top: none;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 39px;
+}
+
+button{
+    line-height: 15px;
+    margin-top: 10px;
+    padding: 10px 30px;
+    border: 4px solid white;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#start-btn{
+    background: rgb(40, 6, 133);
+    color: white;
+}
+
+#new-btn{
+    background: goldenrod;
+    color: white;
+}
+
+#player-el{
+    font-style: normal;
+    font-size: 20px;
+    color: goldenrod;
+}
+
+a{
+    color: rgb(153, 239, 61);
+}
